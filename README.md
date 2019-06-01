@@ -48,7 +48,7 @@ Each repository has an "Issues" section where anyone can start a conversation.
 These "Issues" are not necessarily problems, but rather discussions topics.
 You are welcome to create or participate in an issue for any topic you would like.
 
-### Two-Factor Authentication (2FA)
+#### Two-Factor Authentication (2FA)
 
 If you are interested to become a member of the GitHub organisation, which means having additional "write" access rights on the repositories, please note that we require you to use 2FA.
 
@@ -70,4 +70,75 @@ It's an additional step to perform certain tasks, you need to generate keys to u
 
 Based on our needs as an organisation, the benefits of 2FA outweight the burden of using it.
 
+---
+
+[(English above)](#about-the-league)
+
 ## À propos de la Ligue
+
+La Ligue DevOps du GC est un mouvement populaire qui est né d'un désir collectif de changer nos méthodes de travail, tant du point de vue des praticiennes et praticiens du développement de logiciels que des opérations informatiques.
+
+La Ligue est ouverte à toute personne intéressée à travailler ouvertement, à partager ses leçons apprises et à s'entraider mutuellement pour relever les défis auxquels nous devons toutes et tous faire face, même si nous sommes issus de diverses organisations considérées "différentes".
+Nous nous ressemblons beaucoup plus que certains voudraient nous faire croire.
+
+## Adhésion
+
+Pour l'instant, nous n'avons pas de processus "d'adhésion".
+Il s'agit d'une communauté ouverte où chacune et chacun peut contribuer à sa façon.
+Cependant, nous avons un code de conduite et nous vous encourageons à le lire attentivement parce que nous voulons que cette communauté soit inclusive et diversifiée.
+
+En ce qui concerne le statut de "membre" de l'organisation GitHub [(plus de détails ci-dessous)](#github-organisation-and-repositories), ils ont été créés pour maintenir la documentation et planifier les événements.
+Si vous souhaitez jouer un rôle plus actif, veuillez demander à être ajouté aux "membres" de l'organisation.
+Si vous n'avez pas le temps d'examiner de la documentation, de réviser et fusionner des demandes de "Pull Request", d'organiser des événements, c'est **absolument correct** et vous pouvez simplement mettre en favoris les repos qui vous intéressent, créer des problèmes (Issues), participer à des discussions ou soumettre des "Pull Requests" pour proposer des modifications.
+
+Nous ne nous attendons pas à ce que tout le monde mette du temps en dehors de son horaire de travail habituel pour le faire.
+Mais nous bénéficions collectivement de toute contribution, aussi minime qu'elle puisse vous sembler en tant qu'individu.
+
+## Outils de communications
+
+La GC DevOps League utilise divers canaux de communication.
+
+* [GitHub](#github-organisation-and-repositories)
+* GCMessage
+* Slack
+* Twitter
+
+### Organisation et dépôts de GitHub
+
+L'"organisation" de GitHub est pour nous un moyen de rassembler des informations et de la documentation au grand jour.
+Individuellement, nous ne savons pas tout et, même en tant que groupe, nous pouvons tirer profit de discussions ouvertes.
+D'autres organisations et équipes ont déjà entrepris de modifier leurs pratiques afin d'être plus inclusives et ouvertes.
+N'importe qui est le bienvenu pour nous fournir d'autres idées au fur et à mesure que nous avançons dans notre cheminement collectif.
+
+Une chose que nous avons observée, c'est qu'une grande partie de l'information, des conseils et des outils disponibles sur le marché semblent être adaptés aux entreprises.
+En tant qu'employés du gouvernement fédéral, nous avons un ensemble différent de responsabilités envers les citoyens et nous devrons très probablement adapter ces connaissances externes aux lois et aux règles internes auxquelles nous sommes liés.
+Notre travail peut également être utile pour aider à mieux adapter nos règles internes aux résultats attendus par nos citoyens à notre époque : devenir un gouvernement numérique leur fournissant des services de valeur.
+
+Au sein de cette "organisation", nous avons créé des référentiels qui visent à traiter certains sujets.
+Ces dépôts changeront au fil du temps à mesure que nous verrons mieux comment notre communauté évolue.
+Chaque référentiel a une section "Problèmes" où n'importe qui peut commencer une conversation.
+Ces "Questions" ne sont pas nécessairement des problèmes, mais plutôt des sujets de discussion.
+Vous êtes invités à créer un numéro ou à participer à un numéro pour n'importe quel sujet que vous aimeriez.
+
+#### Authentification à deux facteurs (2FA)
+
+Si vous êtes intéressés à devenir membre de l'organisation GitHub, ce qui signifie avoir des droits d'accès "écriture" supplémentaires sur les dépôts, veuillez noter que nous vous demandons d'utiliser 2FA.
+
+Cela est conforme aux pratiques exemplaires recommandées dans[la directive du Secrétariat du Conseil du Trésor du Canada (annexe B, Pour les gestionnaires)] (https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588), mais aussi[GitHub eux-même] (https://help.github.com/en/articles/about-two-factor-authentication), les pratiques exemplaires générales recommandées en ligne [là](https://hackernoon.com/what-is-2-factor-authentication-and-why-you-should-care-e8af5808d499), [là](https://www.freecodecamp.org/news/things-you-should-know-before-enabling-2-factor-authentication-2fa-6f11e4b5eab1/), [là](https://heimdalsecurity.com/blog/start-using-two-factor-authentication/) et [là](https://www.vice.com/en_us/article/mb3ypq/what-is-two-factor-authentication-and-you-should-use-it).
+
+En fait, nous vous conseillons vivement d'activer 2FA pour tout service Web que vous utilisez.
+
+Si vous vous demandez "Pourquoi? Ça ajoute de la complexité, nah, de  à mon flux de travail", vous n'avez probablement jamais eu affaire à quelqu'un qui vous a volé votre compte de service Web GRATUIT.
+
+Les entreprises offrant des services Web gratuits sont heureuses de vous fournir des moyens automatisés de sécuriser votre compte parce qu'elles n'ont pas des milliers d'employés de soutien de niveau 1 en ligne pour **réinitialiser votre mot de passe**.
+Si vous vous faites voler votre compte, la plupart d'entre elles n'offriront aucun service pour vous le rendre.
+Cela signifie alors que le contrevenant ayant volé votre compte accède à votre contenu (qu'il s'agisse d'un courriel, votre portfolio complet de contributions libres, d'images ou autres) et qu'il peut maintenant se faire passer pour vous.
+
+De notre côté, puisqu'il s'agit d'une organisation gratuite, nous ne voyons pas votre adresse e-mail (et ne voulons pas le voir) et nous n'avons aucun moyen de vous rendre accès à votre compte.
+
+Notre seul recours est de radier ce compte de nos membres.
+
+Il y a, bien sûr, des défis introduits par la 2FA.
+C'est une étape supplémentaire pour effectuer certaines tâches, vous devez générer des clés pour utiliser les URL HTTPS avec Git au lieu de votre mot de passe habituel, etc.
+
+Sur la base de nos besoins en tant qu'organisation, les avantages de 2FA l'emportent sur le fardeau de son utilisation.
